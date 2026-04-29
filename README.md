@@ -1,4 +1,4 @@
-# 🎮 [Insert Game Name Here]
+# 🎮 Pong
 
 A 2D [insert genre, e.g., platformer/puzzle/text-based] game built entirely in C++. This project was created to explore game loops, memory management, and object-oriented programming in C++.
 
